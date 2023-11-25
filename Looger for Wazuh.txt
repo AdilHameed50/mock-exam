@@ -1,0 +1,9 @@
+https://www.linkedin.com/posts/muhammad-affan-sharif-72b83241_systemslimitedcareers-ad-activedirectory-activity-7038833458315464704-aA8T?utm_source=share&utm_medium=member_desktop
+
+
+
+
+
+ 
+
+logger {"app":"core","message":"Login Failed: 'admin' (Remote IP: '127.0.0.1', X-Forwarded-For: '')", "level":2,"time":"2023-03-14T12:47:50+00:00", "@source": "ownCloud"}
